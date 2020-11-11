@@ -130,6 +130,7 @@ void add(struct Node* node, char name[50], int bill)  {
 
 int main(void)
 {
+    //three lists were created with size of fifteen
 
     struct Node* head = NULL;
     struct Node* head2 = NULL;
